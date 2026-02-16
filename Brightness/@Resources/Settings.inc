@@ -1,0 +1,16 @@
+[Variables]
+Movie_Mode=0
+;-------------------------
+BgAlpha=150
+;-------------------------
+Monitor1_Name=MONITOR_NAME
+Monitor2_Name=MONITOR_NAME
+Monitor3_Name=MONITOR_NAME
+Monitor1_MaxBrightness=100
+Monitor2_MaxBrightness=100
+Monitor3_MaxBrightness=100
+;-------------------------
+Overlay_Enabled=0
+Overlay_LinearAlpha=0
+Overlay_Threshold=50
+Overlay_MaxAlpha=82

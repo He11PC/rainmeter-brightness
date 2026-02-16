@@ -1,0 +1,14 @@
+ControlMyMonitor
+----------------
+
+Freeware
+Copyright (c) 2017 - 2025 Nir Sofer
+
+---
+
+1. Download ControlMyMonitor zip file from https://www.nirsoft.net/utils/control_my_monitor.html
+
+2. Extract the 3 files to ControlMyMonitor root folder
+
+3. Consider making a donation to Nir Sofer, this widget would not be possible without his work :)
+    https://www.nirsoft.net/donate.html
