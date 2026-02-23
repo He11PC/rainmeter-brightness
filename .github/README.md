@@ -118,6 +118,6 @@ Edit the last line **Shape=**:
 
 **Widget:** Licensed under GNU GPLv3 by HellPC
 
-**SysColor.dll:** Licensed under GNU GPLv2 or later (GPLv2+) by Brian Ferguson
+**SysColor.dll:** Licensed under GNU GPLv2 or later (GPLv2+) by [Brian Ferguson](https://github.com/brianferguson/SysColor.dll/)
 
-**ControlMyMonitor:** Distributed as Freeware by NirSoft (External dependency, not included in this package)
+**ControlMyMonitor:** Distributed as Freeware by [NirSoft](https://www.nirsoft.net/) (external dependency, not included in this package)
