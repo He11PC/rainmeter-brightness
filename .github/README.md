@@ -10,13 +10,13 @@ It comes with 2 widgets:
 
 ---
 
-## Usage:
+## Usage
 
 The *Brightness* widget is a simple square indicating the current brightness level:
 
 ![brightness](screenshots/brightness.png)
 
-Hover over it to display four clickable percentages:
+Hover over it to display five clickable percentages:
 
 ![brightness_expanded](screenshots/brightness_expanded.png)
 
@@ -32,7 +32,7 @@ Click again to exit this mode.
 
 ---
 
-## Installation:
+## Installation
 
 You obviously need to install **Rainmeter** first.
 
@@ -63,7 +63,7 @@ You obviously need to install **Rainmeter** first.
 
 ---
 
-## Configuration:
+## Configuration
 
 **Brightness** settings are stored in the **Settings.inc** file, located in the **Documents/Rainmeter/Skins/Brightness/@Resources** directory.
 
@@ -114,7 +114,7 @@ Edit the last line **Shape=**:
 
 ---
 
-## Credits and Third-Party Licenses:
+## Credits and Third-Party Licenses
 
 **Widget:** Licensed under GNU GPLv3 by HellPC
 
